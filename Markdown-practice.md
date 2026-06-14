@@ -27,7 +27,7 @@ Steps to make a commit in Git:
 
 
 - [x] Install GitHub app
-- [ ] Learn pull requests
+- [ ] Learn pull request
 - [ ] Contribute to open source
 - [ ] Build portfolio
 
