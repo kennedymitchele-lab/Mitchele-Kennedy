@@ -32,5 +32,3 @@ Steps to make a commit in Git:
 - [ ] Build portfolio
 
 
-```python
-print("Hello, GitHub!")
